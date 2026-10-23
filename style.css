@@ -87,3 +87,6 @@ header{
   text-align:center;
   margin-top:.25rem;
 }
+#hoverCard{
+  transition:box-shadow .15s ease, transform .05s ease, background-color .15s ease, border-color .15s ease;
+}
